@@ -1,14 +1,14 @@
 {
-    "name": "@@@vendor/@@@package_name",
-    "description": "@@@package_description",
-    "keywords": [@@@keywords],
+    "name": "padosoft/testhookslaravel",
+    "description": "prova",
+    "keywords": ["prova"],
     "license": "MIT",
     "type": "project",
     "authors": [
         {
-            "name": "@@@author",
-            "email": "@@@emailauthor",
-            "homepage" : "@@@siteauthor",
+            "name": "Padosoft",
+            "email": "helpdesk@padosoft.com",
+            "homepage" : "www.padosoft.com",
             "role" : "Developer"
 
         }

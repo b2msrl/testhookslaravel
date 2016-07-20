@@ -1,8 +1,8 @@
 # Changelog
 
-All Notable changes to `:@@@package_name` will be documented in this file
+All Notable changes to `:testhookslaravel` will be documented in this file
 
-## alpha - @@@date
+## alpha - 20.07.16
 
 ### Added
 - Initial commit
